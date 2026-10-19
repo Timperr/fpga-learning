@@ -1,0 +1,26 @@
+# Vivado project output
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+
+# Vitis / software build output
+Debug/
+Release/
+build/
+export/
+*.o
+*.d
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
